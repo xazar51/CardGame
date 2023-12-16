@@ -1,6 +1,6 @@
 # CardGame
 A basic card game representing OOP in Python
-Usage examples:
+Usage examples(use raw format to view):
 ######
 3
 Spades K
